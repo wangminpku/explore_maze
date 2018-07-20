@@ -1,0 +1,27 @@
+geometry 5 6
+
+flags
+  2 3 
+  5 5
+
+water 1 3 2 4 
+
+brush 0 4 0 5 1 5 1 6 2 6 3 7
+
+forest 3 3 3 4 3 5 4 4 4 5 4 6
+
+hwy 2 3 3 3 4 3 
+
+unpaved 3 5 4 5 4 4 
+
+dividedhwy 0 3 1 4 1 5 2 6 3 7
+
+river 2 1 2 2 1 2 1 3
+
+barrierwall 
+  2 3 ul dl dn
+  3 4 dl dn
+  
+  
+  
+  
