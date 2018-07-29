@@ -261,6 +261,7 @@ public class TerrainLoader {
         flags[0] = scan.nextCoord();
 
         flags[1] = scan.nextCoord();
+        System.out.println("OK");
 
         return flags;
     }
