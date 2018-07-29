@@ -1,3 +1,3 @@
 # explore_maze
 
-OK , anyway, I love 10 !
+10 10 10 10 10 10 !
