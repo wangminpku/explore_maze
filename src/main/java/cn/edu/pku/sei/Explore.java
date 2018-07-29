@@ -83,7 +83,7 @@ public class Explore {
         f.setContentPane(jsp);
         f.setVisible(true);
         Scanner scan = new Scanner(System.in);
-        scan.nextLine();
+        //scan.nextLine();
     }
 
 }
